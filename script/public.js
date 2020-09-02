@@ -83,11 +83,7 @@ jQuery(document).ready(function($)
 		controlNav		:	false,
 		directionNav	:	true
 	});
-	
-	/**************************************************************************/
-	
-	$('.template-component-google-map').templateGoogleMap();
-	
+			
 	/**************************************************************************/
 	
 	$('.template-component-go-to-top').templateGoToTop();
