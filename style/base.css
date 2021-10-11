@@ -2107,13 +2107,13 @@ h6,h6 a,
 	background-image:url('../media/image/pattern2.png');
 }
 
-	.template-background-image.template-background-image-1						{	background-image:url('../media/image/_sample/1920x1200/3.jpg'); }
-	.template-background-image.template-background-image-2						{	background-image:url('../media/image/_sample/1920x1200/2.jpg'); }
-	.template-background-image.template-background-image-3						{	background-image:url('../media/image/_sample/1920x1200/3.jpg'); }
-	.template-background-image.template-background-image-4						{	background-image:url('../media/image/_sample/1920x1200/4.jpg'); }
-	.template-background-image.template-background-image-5						{	background-image:url('../media/image/_sample/1920x1200/5.jpg'); }
-	.template-background-image.template-background-image-6						{	background-image:url('../media/image/_sample/1920x1200/6.jpg'); }
-	.template-background-image.template-background-image-7						{	background-image:url('../media/image/_sample/1920x1200/7.jpg'); }
+	.template-background-image.template-background-image-1						{	background-image:url('../media/image/sample/1920x1200/3.jpg'); }
+	.template-background-image.template-background-image-2						{	background-image:url('../media/image/sample/1920x1200/2.jpg'); }
+	.template-background-image.template-background-image-3						{	background-image:url('../media/image/sample/1920x1200/3.jpg'); }
+	.template-background-image.template-background-image-4						{	background-image:url('../media/image/sample/1920x1200/4.jpg'); }
+	.template-background-image.template-background-image-5						{	background-image:url('../media/image/sample/1920x1200/5.jpg'); }
+	.template-background-image.template-background-image-6						{	background-image:url('../media/image/sample/1920x1200/6.jpg'); }
+	.template-background-image.template-background-image-7						{	background-image:url('../media/image/sample/1920x1200/7.jpg'); }
 	
 /******************************************************************************/
 /* Section																	  */
@@ -2192,16 +2192,16 @@ h6,h6 a,
 				background-image:url('../media/image/pattern2.png')
 			}
 			
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-1		{	 background-image:url('../media/image/_sample/header/1.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-2		{	 background-image:url('../media/image/_sample/header/2.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-3		{	 background-image:url('../media/image/_sample/header/3.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-4		{	 background-image:url('../media/image/_sample/header/4.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-5		{	 background-image:url('../media/image/_sample/header/5.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-6		{	 background-image:url('../media/image/_sample/header/6.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-7		{	 background-image:url('../media/image/_sample/header/7.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-8		{	 background-image:url('../media/image/_sample/header/8.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-9		{	 background-image:url('../media/image/_sample/header/9.jpg');	}
-			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-10	{	 background-image:url('../media/image/_sample/header/10.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-1		{	 background-image:url('../media/image/sample/header/1.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-2		{	 background-image:url('../media/image/sample/header/2.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-3		{	 background-image:url('../media/image/sample/header/3.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-4		{	 background-image:url('../media/image/sample/header/4.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-5		{	 background-image:url('../media/image/sample/header/5.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-6		{	 background-image:url('../media/image/sample/header/6.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-7		{	 background-image:url('../media/image/sample/header/7.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-8		{	 background-image:url('../media/image/sample/header/8.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-9		{	 background-image:url('../media/image/sample/header/9.jpg');	}
+			.template-header .template-header-bottom .template-header-bottom-background.template-header-bottom-background-img-10	{	 background-image:url('../media/image/sample/header/10.jpg');	}
 
 				.template-header .template-header-bottom .template-header-bottom-background h1,
 				.template-header .template-header-bottom .template-header-bottom-background h6
@@ -4293,11 +4293,11 @@ ul.template-widget-list
 					position:static;
 				}
 				
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 { background-image:url('../media/image/_sample/1050x770/1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 { background-image:url('../media/image/_sample/1050x770/2.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 { background-image:url('../media/image/_sample/1050x770/3.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 { background-image:url('../media/image/_sample/1050x770/4.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-5 { background-image:url('../media/image/_sample/1050x770/5.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 { background-image:url('../media/image/sample/1050x770/1.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 { background-image:url('../media/image/sample/1050x770/2.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 { background-image:url('../media/image/sample/1050x770/3.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 { background-image:url('../media/image/sample/1050x770/4.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-5 { background-image:url('../media/image/sample/1050x770/5.jpg'); }
 
 					.template-component-class>ul>li>.template-layout-flex-50x50>div+div>.template-component-button
 					{
@@ -5495,8 +5495,8 @@ ul.template-widget-list
 				margin-bottom:30px !important;
 			}
 			
-			.template-component-pricing-plan.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-1 { background-image:url('../media/image/_sample/280x650/1.jpg'); }
-			.template-component-pricing-plan.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-2 { background-image:url('../media/image/_sample/280x650/2.jpg'); }
+			.template-component-pricing-plan.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-1 { background-image:url('../media/image/sample/280x650/1.jpg'); }
+			.template-component-pricing-plan.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-2 { background-image:url('../media/image/sample/280x650/2.jpg'); }
 
 			.template-component-pricing-plan.template-state-responsive-300.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-1,
 			.template-component-pricing-plan.template-state-responsive-300.template-component-pricing-plan-style-2>ul>li.template-component-pricing-plan-background-2
